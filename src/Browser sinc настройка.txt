@@ -1,0 +1,17 @@
+пкм открыть окно команд
+
+npm -v какая версия установлена
+
+npm install -g browser-sync установка глобально для всего пк
+
+cd
+
+ls где нахожусь
+
+browser-sync start --server --files "*.html"
+
+
+
+Настройка st3
+"save_on_focus_lost": true
+Автоматически сохраняет документ при переходе на другой файл между html css
